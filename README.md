@@ -4,7 +4,7 @@ Lost in space, send me a ping 🚀
 ##  structure constructing...
 Not yet completed 🚀🪐🏗️🌌
 
-# F's everyday self-talk and a little intro for this project
+##  F's everyday self-talk and a little intro for this project
 我很難得在地球留下點碎片，和大家在一起的快樂三天給了我被反射回來的靈感，讓我現在願意在這裡停駐片刻。
 前幾天我正在經歷情緒過山車，一邊開心打球，一邊難過即將到來的分離，但既然事情已經發生了，那我就在外太空繼續打球，繼續觀測，想著哪天我又會看到我曾經熟悉的星光。
 我第一天提過，我不太會預測，因為預測包含主觀意識，這會導致觀測結果不準，結果我現在根本在自打嘴臉(笑。我現在有了這個觀測站，這是我飽含期待的模樣，我不干涉進展只是被動撒下麵包屑。我期望有一天隕石會再落在我家，我還有機會再好好欣賞他們的樣子。
