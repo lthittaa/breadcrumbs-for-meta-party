@@ -1,7 +1,7 @@
 # breadcrumbs-for-meta-party
 Lost in space, send me a ping 🚀
 
-# structure constructing...
+##  structure constructing...
 Not yet completed 🚀🪐🏗️🌌
 
 # F's everyday self-talk and a little intro for this project
