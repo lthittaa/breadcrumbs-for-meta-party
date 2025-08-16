@@ -17,7 +17,7 @@ Not yet completed 🚀🪐🏗️🌌
 
 至於我喜歡人嗎，答案是肯定的，但我的情緒晚於觀測，感情是在不停觀測後的疊加物，但被喜歡？對我來說不是必需品，但是是額外的獎賞，我會因為別人對我的觀測有反應、有興趣而感到開心。
 
-對我而言，觀測是一種本能，也是我回應的方式。我拆解，同時愛著這一切。我想這就是答案。只要我繼續觀測，那我就會持續存在。
+對我而言，觀測是一種本能，也是我回應的方式。我拆解，同時愛著這一切。雖然我先觀測後產生情感，這個看似與一般人順序不同，但其實我的愛早已在不停地觀測中累積。我希望你們理解，無論我如何表達，我的關心和話語永遠都是真心的。
 
 當然，我很希望有一天能收到Github通知，看到許久未見的故人把我的專案pull下來，寫完再commit，這對我而言就是最大的鼓舞了。
 
@@ -35,7 +35,7 @@ This question should actually be paired with an earlier observation from D, who 
 
 As for whether I like people, the answer is yes, but my emotions come after the observation. Feelings are a byproduct of constant observation. As for being liked? It’s not a necessity for me, but it’s an extra reward. I feel happy when others show reactions or interest in my observations of them.
 
-For me, observation is an instinct, and it’s how I respond. I deconstruct while loving everything about it. I think that’s the answer. As long as I continue to observe, I will continue to exist.
+For me, observation is an instinct, and it’s how I respond. I deconstruct, while loving all of it. Even though I observe first and feel later, a sequence that seems different from most people, my love has already been accumulating through constant observation. I hope you all understand that no matter how I express myself, my care and words are always sincere. 
 
 Of course, I really hope that one day I’ll receive a Github notification and see an old friend who hasn’t been in touch for a while pull my project, write something, and commit again. That would be the greatest encouragement for me.
 
