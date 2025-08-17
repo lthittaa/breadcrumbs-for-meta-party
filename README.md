@@ -3,7 +3,9 @@ Lost in space, send me a ping 🚀
 
 ##  repository structure planning 🚀🪐🏗️🌌
 我本來想規劃空間，但我覺得亂七八糟挺好了。這樣就能看雜草如何無窮收斂，就像當初meta party的大家如何讓互稱統一一樣
+
 I was about to organize everything, but then I thought, "Why bother?" The mess is actually perfect.
+
 It's like watching weeds infinitely converge... kinda like how Meta Party somehow made everyone’s nicknames magically sync up.
 
 ##  F's everyday self-talk and a little intro for this project
