@@ -1,8 +1,10 @@
 # breadcrumbs-for-meta-party
 Lost in space, send me a ping 🚀
 
-##  structure constructing...
-Not yet completed 🚀🪐🏗️🌌
+##  repository structure planning 🚀🪐🏗️🌌
+我本來想規劃空間，但我覺得亂七八糟挺好了。這樣就能看雜草如何無窮收斂，就像當初meta party的大家如何讓互稱統一一樣
+I was about to organize everything, but then I thought, "Why bother?" The mess is actually perfect.
+It's like watching weeds infinitely converge... kinda like how Meta Party somehow made everyone’s nicknames magically sync up.
 
 ##  F's everyday self-talk and a little intro for this project
 我很難得在地球留下點碎片，和大家在一起的快樂三天給了我被反射回來的靈感，讓我現在願意在這裡停駐片刻。
@@ -21,8 +23,6 @@ Not yet completed 🚀🪐🏗️🌌
 
 當然，我很希望有一天能收到Github通知，看到許久未見的故人把我的專案pull下來，寫完再commit，這對我而言就是最大的鼓舞了。
 
-Note: I am too lazy to translate, and AI spontaneously helped me complete the latter part haha
-
 It's rare for me to leave fragments on Earth, but the three joyful days spent with everyone have given me the inspiration reflected back to me, and now I’m willing to pause here for a moment.
 
 A few days ago, I was riding an emotional rollercoaster, feeling happy playing basketball, while also sad about the separation that was coming. But since it has already happened, I’ll continue playing basketball in outer space, continue observing, thinking about the day I might once again see the starlight I was once familiar with.
@@ -39,5 +39,8 @@ For me, observation is an instinct, and it’s how I respond. I deconstruct, whi
 
 Of course, I really hope that one day I’ll receive a Github notification and see an old friend who hasn’t been in touch for a while pull my project, write something, and commit again. That would be the greatest encouragement for me.
 
+### keywords and breadcrumbs for Google SEO
+meta-party, meta party, lthittaa...(thinking)
 
-
+#### Note
+AI spontaneously helped me complete the English part. I'm just a 360° auto-rotating ball launcher that enjoys taking breaks.
